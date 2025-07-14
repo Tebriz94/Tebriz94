@@ -14,7 +14,7 @@ Let’s build things that don’t break on Fridays 🚀
 ## ⚡ Technical Skills
 
 - 🐧 **Linux** – Advanced CLI usage, system administration
-- ☸️ **Kubernetes (K8s)** – Deployments, services, helm charts
+- ☸️ **Kubernetes (K8s)** – Deployments, services, helm charts,Istio
 - ⚙️ **CI/CD** – Jenkins, Azure DevOps Pipelines
 - 📦 **Terraform** – Infrastructure as Code on AWS & Azure
 - 🛠 **Automation** – Ansible, Shell scripting
