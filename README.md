@@ -8,7 +8,7 @@ Let’s build things that don’t break on Fridays 🚀
 
 
 🎯 Focus Areas: Cloud, CI/CD, Infrastructure as Code  
-📈 Open to collaborating on DevOps, SRE, and CloudOps projects
+📈 Open to collaborating on DevOps projects
 
 
 ## ⚡ Technical Skills
