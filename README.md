@@ -13,7 +13,7 @@ Let’s build things that don’t break on Fridays 🚀
 
 - 🐧 **Linux** – Advanced CLI usage, system administration
 - ☸️ **Kubernetes (K8s)** – Deployments, services, helm charts
-- ⚙️ **CI/CD** – GitHub Actions, Azure DevOps Pipelines
+- ⚙️ **CI/CD** – Jenkins, Azure DevOps Pipelines
 - 📦 **Terraform** – Infrastructure as Code on AWS & Azure
 - 🛠 **Automation** – Ansible, Shell scripting
 - ☁️ **Cloud Platforms** – AWS & Microsoft Azure
