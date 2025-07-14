@@ -4,6 +4,8 @@ I’m a DevOps engineer who enjoys solving infrastructure challenges with code. 
 
 Let’s build things that don’t break on Fridays 🚀 
 
+![image alt](https://github.com/Tebriz94/Tebriz94/blob/7bfd3f79ae2ff0badc00fdaaa78b362cff18f315/dEVoPS.png)
+
 
 🎯 Focus Areas: Cloud, CI/CD, Infrastructure as Code  
 📈 Open to collaborating on DevOps, SRE, and CloudOps projects
@@ -42,4 +44,4 @@ Let’s build things that don’t break on Fridays 🚀
 📈 `monitoring-stack` – Prometheus + Grafana monitoring setup  
 🔒 `azure-devops-pipelines` – Multi-stage YAML pipelines on Azure
 
-![image alt](https://github.com/Tebriz94/Tebriz94/blob/7bfd3f79ae2ff0badc00fdaaa78b362cff18f315/dEVoPS.png)
+
