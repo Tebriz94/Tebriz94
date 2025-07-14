@@ -38,7 +38,7 @@ Let’s build things that don’t break on Fridays 🚀
 ## 📂 Featured Projects (Pinned Repos)
 
 🔧 `k8s-microservices-app` – Microservices app deployed with Kubernetes  
-🛠 `ci-cd-pipeline` – Full CI/CD workflow using GitHub Actions  
+🛠 `ci-cd-pipeline` – Full CI/CD workflow using Jenkins  
 🌩 `terraform-aws-infra` – Deploying AWS infrastructure via Terraform  
 📦 `ansible-playbooks` – Automating server setup with Ansible  
 📈 `monitoring-stack` – Prometheus + Grafana monitoring setup  
